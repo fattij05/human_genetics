@@ -51,3 +51,4 @@ __pycache__/
 *.bai
 *.gaf
 *.paf
+apg/results/**/raw/

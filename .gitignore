@@ -53,3 +53,4 @@ __pycache__/
 *.paf
 apg/results/**/raw/
 apg/results/**/tables/bwa_vs_mm2_contig_comparison.with_quality.tsv
+**/bwa_vs_mm2_contig_comparison.with_quality.tsv

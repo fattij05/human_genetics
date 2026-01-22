@@ -1,0 +1,53 @@
+# OS/editor
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Logs
+*.log
+*.out
+*.err
+
+# Large bioinformatics files (do not commit)
+*.bam
+*.bai
+*.cram
+*.crai
+*.fastq
+*.fq
+*.fasta
+*.fa
+*.fna
+*.gfa
+*.vg
+*.xg
+*.gbz
+*.dist
+*.min
+*.gaf
+*.gam
+*.paf
+
+# Compressed / archives
+*.tar
+*.tar.gz
+*.zip
+
+# Big intermediate dirs (keep summaries only)
+**/raw/
+**/tmp/
+**/cache/
+
+# Python/R
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+# APG/ONT large files
+*.bam
+*.bai
+*.gaf
+*.paf
